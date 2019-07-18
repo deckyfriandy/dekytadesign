@@ -1,0 +1,7 @@
+{
+  "name": "dekyta",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
